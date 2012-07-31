@@ -614,4 +614,3 @@ jasmine.TrivialReporter.prototype.specFilter = function(spec) {
   }
   return spec.getFullName().indexOf(paramMap.spec) === 0;
 };
-
